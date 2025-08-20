@@ -4,13 +4,13 @@
 
 ![Lingo - Interactive platform for language learning.](/.github/images/img_main.png "Lingo - Interactive platform for language learning.")
 
-[![Ask Me Anything!](https://flat.badgen.net/static/Ask%20me/anything?icon=github&color=black&scale=1.01)](https://github.com/01akshat09 "Ask Me Anything!")
-[![GitHub license](https://flat.badgen.net/github/license/01akshat09/Lingo?icon=github&color=black&scale=1.01)](https://github.com/01akshat09/Lingo/blob/main/LICENSE "GitHub license")
-[![Maintenance](https://flat.badgen.net/static/Maintained/yes?icon=github&color=black&scale=1.01)](https://github.com/01akshat09/Lingo/commits/main "Maintenance")
-[![GitHub branches](https://flat.badgen.net/github/branches/01akshat09/Lingo?icon=github&color=black&scale=1.01)](https://github.com/01akshat09/Lingo/branches "GitHub branches")
-[![Github commits](https://flat.badgen.net/github/commits/01akshat09/Lingo?icon=github&color=black&scale=1.01)](https://github.com/01akshat09/Lingo/commits "Github commits")
-[![GitHub issues](https://flat.badgen.net/github/issues/01akshat09/Lingo?icon=github&color=black&scale=1.01)](https://github.com/01akshat09/Lingo/issues "GitHub issues")
-[![GitHub pull requests](https://flat.badgen.net/github/prs/01akshat09/Lingo?icon=github&color=black&scale=1.01)](https://github.com/01akshat09/Lingo/pulls "GitHub pull requests")
+[![Ask Me Anything!](https://flat.badgen.net/static/Ask%20me/anything?icon=github&color=black&scale=1.01)](https://github.com/godel02 "Ask Me Anything!")
+[![GitHub license](https://flat.badgen.net/github/license/01akshat09/Lingo?icon=github&color=black&scale=1.01)](https://github.com/godel02/Lingo/blob/main/LICENSE "GitHub license")
+[![Maintenance](https://flat.badgen.net/static/Maintained/yes?icon=github&color=black&scale=1.01)](https://github.com/godel02/Lingo/commits/main "Maintenance")
+[![GitHub branches](https://flat.badgen.net/github/branches/godel02/Lingo?icon=github&color=black&scale=1.01)](https://github.com/godel02/Lingo/branches "GitHub branches")
+[![Github commits](https://flat.badgen.net/github/commits/godel02/Lingo?icon=github&color=black&scale=1.01)](https://github.com/godel02/Lingo/commits "Github commits")
+[![GitHub issues](https://flat.badgen.net/github/issues/godel02/Lingo?icon=github&color=black&scale=1.01)](https://github.com/godel02/Lingo/issues "GitHub issues")
+[![GitHub pull requests](https://flat.badgen.net/github/prs/godel02/Lingo?icon=github&color=black&scale=1.01)](https://github.com/godel02/Lingo/pulls "GitHub pull requests")
 [![Vercel status](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://lingo-livid-delta.vercel.app// "Vercel status")
 
 <!-- Table of Contents -->
